@@ -1,6 +1,6 @@
 # main text of home
 name: michi mendez 
-bio: el y yo
+bio: yo
 
 # twitter summary info
 description: sobre mi 
@@ -11,12 +11,12 @@ url: http://koppl.in/violet
 # your url: http://USERNAME.github.io
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: https://www.facebook.com/share/15wVxRsMSj/
+twitter: michth95
 github: mygithub
-email: me@jane.doe
+email: michmendrom@gmail.com 
 
 gems:
-  - jekyll-seo-tag
+  - michi mendez
 
 exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh, vendor]
